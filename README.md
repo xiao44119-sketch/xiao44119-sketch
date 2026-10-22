@@ -22,6 +22,7 @@
 - 🎬 **AI 视听工业化与视频生成**：专注于 Clean Feed 纯净母版标准、HyperFrames 动态代码渲染、扩散模型微动形变、AI 数字人原声唇形拟合。
 - ✂️ **音视频自动化底层基建**：自研 `AutoClip Studio Pro` 与剪映 Pro macOS 原生草稿底层注入（`libjycodec` 自包含架构），无感解决沙盒权限痛点。
 - 🤖 **全栈自主 Agent 与赛博终端**：基于 Next.js 16 + React 19 构建高并发自主调度终端（`QuantumLink`），打通从大模型编排到商业化全链路履约。
+- ❤️ **科技向善与社会价值**：主导设计青少年家庭情绪沟通系统「安心答」，探索非暴力沟通与去中心化安全伦理边界。
 
 ---
 
@@ -35,7 +36,7 @@
 | **前端 & 架构** | `Next.js 16 (App Router)` · `React 19` · `Tailwind CSS v4` · `Node.js` |
 | **音视频与渲染** | `FFmpeg 7.1` · `Canvas 2D / WebGL` · `HyperFrames` · `Fish Audio TTS` |
 | **剪辑工业生态** | `JianYing Pro macOS (剪映专业版底层草稿总线)` · `CapCut` · `DaVinci Resolve` |
-| **AI 模型与服务** | `DeepSeek` · `Qwen` · `Claude` · `Dify / Agent 架构` · `阿里云百炼` · `华为云 AI` |
+| **AI 模型与伦理** | `DeepSeek` · `Qwen` · `Claude` · `Dify / Agent 架构` · `情感状态机与危机防御` |
 
 </div>
 
@@ -54,29 +55,29 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/xiao44119-sketch/jianying-headless">✂️ JianYing Headless</a></h3>
-      <p align="center"><b>面向剪映专业版 macOS 的原生自动化与 Agent Skill 总线</b></p>
+      <h3 align="center"><a href="https://xiao44119-sketch.github.io/">❤️ 安心答 (Anxin-Da)</a></h3>
+      <p align="center"><b>青少年家庭情绪沟通支持系统 · 科技向善价值实验室</b></p>
       <ul>
-        <li>自包含草稿构建，杜绝 macOS Sandbox 丢失素材痛点</li>
-        <li>多轨道纯金黑边独立字幕排布，遵循 Clean Feed 母版规范</li>
+        <li>双重视角情绪透镜：孩子倾诉端与家长共情端镜像对话</li>
+        <li>三级敏感词加权状态机，恪守 0 医疗诊断与隐私底线</li>
       </ul>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://xiao44119-sketch.github.io/">🏝️ Finn Digital Island</a></h3>
-      <p align="center"><b>先锋艺术级个人数字岛屿与官方凭证展厅</b></p>
-      <ul>
-        <li>Godly / Awwwards 风格顶级微交互与响应式暗色美学</li>
-        <li>内嵌阿里云、华为云等 10+ 官方专业认证证书展厅</li>
-      </ul>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/xiao44119-sketch/autoclip-studio-pro">🚀 AutoClip Studio Pro</a></h3>
       <p align="center"><b>商用级智能切片与 AI 数字人分身拟合工作台</b></p>
       <ul>
         <li>大模型自动挖掘高光切片 + 9:16 电影级虚化高光</li>
         <li>AI 肖像拟合 + 原声克隆驱动黄金片头 Hook 直通剪映</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/xiao44119-sketch/jianying-headless">✂️ JianYing Headless</a></h3>
+      <p align="center"><b>面向剪映专业版 macOS 的原生自动化与 Agent Skill 总线</b></p>
+      <ul>
+        <li>自包含草稿构建，杜绝 macOS Sandbox 丢失素材痛点</li>
+        <li>多轨道纯金黑边独立字幕排布，遵循 Clean Feed 母版规范</li>
       </ul>
     </td>
   </tr>
