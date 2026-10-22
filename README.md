@@ -81,6 +81,24 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/xiao44119-sketch/pixel-code-video-workflow">🎞️ Pixel & Code Video Workflow</a></h3>
+      <p align="center"><b>像素风与纯代码驱动数学动画视频生产引擎</b></p>
+      <ul>
+        <li>100% 确定性时间变量驱动，Canvas 2D / WebGL 无显卡抽卡开销</li>
+        <li>沉淀《暗黑像素财经》《回旋镖》《西西弗斯》四大视觉风格与无头 Puppeteer 渲染 SOP</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/xiao44119-sketch/llm-video-skills">🧠 LLM Video Skills Suite</a></h3>
+      <p align="center"><b>大模型影视编导 Agent 与剪映自动化全栈 Skills 套件</b></p>
+      <ul>
+        <li><code>storyboard-video</code> 故事板拓扑依赖分析与双会话导演/执行协作流</li>
+        <li><code>jianying-draft-export</code> + 10拍法提示词体系 + WhisperX 词级时间戳对齐</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
