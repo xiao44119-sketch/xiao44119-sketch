@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="100%" height="100%">
+  <defs>
+    <linearGradient id="pipeBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="50%" stop-color="#0B111E"/>
+      <stop offset="100%" stop-color="#070A12"/>
+    </linearGradient>
+
+    <marker id="arrowCyan" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#00E5D8"/>
+    </marker>
+
+    <marker id="arrowGold" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#FFD76A"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="210" rx="16" fill="url(#pipeBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <text x="32" y="34" font-family="'SF Mono', 'Fira Code', monospace" font-size="12" font-weight="700" fill="#FFD76A" letter-spacing="1.5">
+    🔄 END-TO-END INDUSTRIAL PIPELINE // 从创意编导到商业交付的全链路闭环
+  </text>
+
+  <!-- Stage 1 -->
+  <g transform="translate(32, 56)">
+    <rect width="248" height="126" rx="12" fill="#0E1628" stroke="#00E5D8" stroke-width="1.2" stroke-opacity="0.6"/>
+    <text x="18" y="28" font-family="'SF Mono', monospace" font-size="11" font-weight="700" fill="#00E5D8">STAGE 01 // AI DIRECTOR</text>
+    <text x="18" y="54" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">编导大模型与故事板拓扑</text>
+    <text x="18" y="80" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• 10拍法叙事与语言全损压缩</text>
+    <text x="18" y="102" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• 共享主体识别与依赖批次拆解</text>
+  </g>
+
+  <!-- Connector 1 -> 2 -->
+  <line x1="286" y1="119" x2="322" y2="119" stroke="#00E5D8" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arrowCyan)"/>
+
+  <!-- Stage 2 -->
+  <g transform="translate(332, 56)">
+    <rect width="248" height="126" rx="12" fill="#0E1628" stroke="#38BDF8" stroke-width="1.2" stroke-opacity="0.6"/>
+    <text x="18" y="28" font-family="'SF Mono', monospace" font-size="11" font-weight="700" fill="#38BDF8">STAGE 02 // DETERMINISTIC</text>
+    <text x="18" y="54" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">纯代码动画与数字人拟合</text>
+    <text x="18" y="80" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• Canvas 2D / WebGL 数学确定性渲染</text>
+    <text x="18" y="102" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• 原声声纹克隆 + 唇形/眨眼拟合</text>
+  </g>
+
+  <!-- Connector 2 -> 3 -->
+  <line x1="586" y1="119" x2="622" y2="119" stroke="#FFD76A" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arrowGold)"/>
+
+  <!-- Stage 3 -->
+  <g transform="translate(632, 56)">
+    <rect width="248" height="126" rx="12" fill="#0E1628" stroke="#FFD76A" stroke-width="1.2" stroke-opacity="0.6"/>
+    <text x="18" y="28" font-family="'SF Mono', monospace" font-size="11" font-weight="700" fill="#FFD76A">STAGE 03 // NATIVE BUS</text>
+    <text x="18" y="54" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">剪映 Pro 底层草稿直通</text>
+    <text x="18" y="80" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• Clean Feed 母版留白零字幕污染</text>
+    <text x="18" y="102" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• 自包含 libjycodec 多轨无损挂载</text>
+  </g>
+
+  <!-- Connector 3 -> 4 -->
+  <line x1="886" y1="119" x2="922" y2="119" stroke="#00E5D8" stroke-width="2" stroke-dasharray="4 3" marker-end="url(#arrowCyan)"/>
+
+  <!-- Stage 4 -->
+  <g transform="translate(932, 56)">
+    <rect width="236" height="126" rx="12" fill="#0E1628" stroke="#F472B6" stroke-width="1.2" stroke-opacity="0.6"/>
+    <text x="18" y="28" font-family="'SF Mono', monospace" font-size="11" font-weight="700" fill="#F472B6">STAGE 04 // FULFILLMENT</text>
+    <text x="18" y="54" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="15" font-weight="700" fill="#F8FAFC">全栈赛博调度与社会价值</text>
+    <text x="18" y="80" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• QuantumLink 自主并发工单终端</text>
+    <text x="18" y="102" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#94A3B8">• 「安心答」双重视角家庭情绪透镜</text>
+  </g>
+</svg>

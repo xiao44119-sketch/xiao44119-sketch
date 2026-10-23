@@ -1,101 +1,120 @@
 <div align="center">
 
-# 🌌 Hi, I'm Finn (骁清) 👋
-
-**AI Visual Director · Full-Stack Creative Technologist · Agent Workflow Architect**
-
-> *“让想法被理解，也被实现。保持真实，让热爱有回响。”*  
-> *(Make ideas understood, and make them happen. Stay authentic, let passion echo.)*
+<a href="https://xiao44119-sketch.github.io/">
+  <img src="./assets/hero-banner.svg" width="100%" alt="Finn (骁清) · AI Visual Director & Full-Stack Agent Architect" />
+</a>
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Official_Site-xiao44119--sketch.github.io-00e5d8?style=for-the-badge&logo=safari&logoColor=black)](https://xiao44119-sketch.github.io/)
-[![Email](https://img.shields.io/badge/Email-xiao44119%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xiao44119@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-xiao44119--sketch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiao44119-sketch)
+[![Digital Island](https://img.shields.io/badge/🏝️_Digital_Island-xiao44119--sketch.github.io-00E5D8?style=for-the-badge&labelColor=0A0F1A)](https://xiao44119-sketch.github.io/)
+[![QuantumLink Live](https://img.shields.io/badge/⚡_QuantumLink_Live-Cyber_Terminal-FFD76A?style=for-the-badge&labelColor=0A0F1A)](https://quantum-link-two.vercel.app/)
+[![Anxin-Da Lab](https://img.shields.io/badge/❤️_安心答_Value_Lab-Interactive_Demo-F472B6?style=for-the-badge&labelColor=0A0F1A)](https://xiao44119-sketch.github.io/)
+[![Email](https://img.shields.io/badge/✉️_Contact-xiao44119%40gmail.com-38BDF8?style=for-the-badge&labelColor=0A0F1A)](mailto:xiao44119@gmail.com)
 
 </div>
 
----
-
-### ⚡ 核心探索与技术图谱 (Core Disciplines)
-
-- 🎬 **AI 视听工业化与视频生成**：专注于 Clean Feed 纯净母版标准、HyperFrames 动态代码渲染、扩散模型微动形变、AI 数字人原声唇形拟合。
-- ✂️ **音视频自动化底层基建**：自研 `AutoClip Studio Pro` 与剪映 Pro macOS 原生草稿底层注入（`libjycodec` 自包含架构），无感解决沙盒权限痛点。
-- 🤖 **全栈自主 Agent 与赛博终端**：基于 Next.js 16 + React 19 构建高并发自主调度终端（`QuantumLink`），打通从大模型编排到商业化全链路履约。
-- ❤️ **科技向善与社会价值**：主导设计青少年家庭情绪沟通系统「安心答」，探索非暴力沟通与去中心化安全伦理边界。
+<br/>
 
 ---
 
-### 🛠️ 技术栈与工具箱 (Tech Stack & Tooling)
+### 🧭 核心工程架构闭环 (End-to-End Industrial Pipeline)
 
 <div align="center">
-
-| 分类 | 掌握技术 / 框架 |
-| :--- | :--- |
-| **编程语言** | `Python 3` · `TypeScript` · `JavaScript` · `Shell / Zsh` |
-| **前端 & 架构** | `Next.js 16 (App Router)` · `React 19` · `Tailwind CSS v4` · `Node.js` |
-| **音视频与渲染** | `FFmpeg 7.1` · `Canvas 2D / WebGL` · `HyperFrames` · `Fish Audio TTS` |
-| **剪辑工业生态** | `JianYing Pro macOS (剪映专业版底层草稿总线)` · `CapCut` · `DaVinci Resolve` |
-| **AI 模型与伦理** | `DeepSeek` · `Qwen` · `Claude` · `Dify / Agent 架构` · `情感状态机与危机防御` |
-
+  <img src="./assets/pipeline-architecture.svg" width="100%" alt="End-to-End Industrial Pipeline" />
 </div>
 
 ---
 
-### 🌟 明星代表作 (Featured Projects)
+### 🌟 旗舰开源与代表作矩阵 (Flagship Projects Matrix)
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/xiao44119-sketch/quantum-link">⚡ QuantumLink</a></h3>
-      <p align="center"><b>Next.js 16 · React 19 · 赛博朋克 AI 订阅调度与履约终端</b></p>
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/quantum-link">⚡ QuantumLink</a>
+        <a href="https://quantum-link-two.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-00E5D8?style=flat-square&logo=vercel&logoColor=black" align="right" /></a>
+      </h3>
+      <p><b>赛博朋克全栈 AI 订阅自主调度与实时遥测终端</b></p>
+      <p>
+        <code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind v4</code>
+      </p>
       <ul>
-        <li>全栈深空暗夜 HUD 遥测监控面板与高并发任务队列</li>
-        <li>环境冲突预检（Session Precheck）与动态工单流转</li>
+        <li><b>深空暗夜 HUD 遥测台</b>：毫秒级状态流转、智能路由分发与高并发任务看板。</li>
+        <li><b>零冲突前置预检</b>：内置 Session Precheck 沙盒校验机制，打通商业化全自动闭环履约。</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://xiao44119-sketch.github.io/">❤️ 安心答 (Anxin-Da)</a></h3>
-      <p align="center"><b>青少年家庭情绪沟通支持系统 · 科技向善价值实验室</b></p>
+      <h3>
+        <a href="https://xiao44119-sketch.github.io/">❤️ 安心答 (Anxin-Da)</a>
+        <a href="https://xiao44119-sketch.github.io/"><img src="https://img.shields.io/badge/INTERACTIVE_LAB-F472B6?style=flat-square" align="right" /></a>
+      </h3>
+      <p><b>青少年家庭情绪沟通支持系统 · 科技向善价值实验室</b></p>
+      <p>
+        <code>Emotion Lens</code> · <code>Crisis State Machine</code> · <code>Non-Violent Comm</code>
+      </p>
       <ul>
-        <li>双重视角情绪透镜：孩子倾诉端与家长共情端镜像对话</li>
-        <li>三级敏感词加权状态机，恪守 0 医疗诊断与隐私底线</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/xiao44119-sketch/autoclip-studio-pro">🚀 AutoClip Studio Pro</a></h3>
-      <p align="center"><b>商用级智能切片与 AI 数字人分身拟合工作台</b></p>
-      <ul>
-        <li>大模型自动挖掘高光切片 + 9:16 电影级虚化高光</li>
-        <li>AI 肖像拟合 + 原声克隆驱动黄金片头 Hook 直通剪映</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/xiao44119-sketch/jianying-headless">✂️ JianYing Headless</a></h3>
-      <p align="center"><b>面向剪映专业版 macOS 的原生自动化与 Agent Skill 总线</b></p>
-      <ul>
-        <li>自包含草稿构建，杜绝 macOS Sandbox 丢失素材痛点</li>
-        <li>多轨道纯金黑边独立字幕排布，遵循 Clean Feed 母版规范</li>
+        <li><b>双重视角情绪透镜</b>：构建「孩子倾诉端」与「家长共情端」双向翻译缓冲层，化解代际防御。</li>
+        <li><b>三级敏感词加权状态机</b>：实时识别高危情绪信号并平滑切换危机干预通道，严守 0 医疗越界底线。</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/xiao44119-sketch/pixel-code-video-workflow">🎞️ Pixel & Code Video Workflow</a></h3>
-      <p align="center"><b>像素风与纯代码驱动数学动画视频生产引擎</b></p>
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/autoclip-studio-pro">🚀 AutoClip Studio Pro</a>
+        <img src="https://img.shields.io/badge/COMMERCIAL_V2-FFD76A?style=flat-square" align="right" />
+      </h3>
+      <p><b>商用级智能切片与 AI 数字人分身拟合工作台</b></p>
+      <p>
+        <code>Zero-Dependency</code> · <code>Digital Avatar</code> · <code>FFmpeg 7.1</code> · <code>Voice Clone</code>
+      </p>
       <ul>
-        <li>100% 确定性时间变量驱动，Canvas 2D / WebGL 无显卡抽卡开销</li>
-        <li>沉淀《暗黑像素财经》《回旋镖》《西西弗斯》四大视觉风格与无头 Puppeteer 渲染 SOP</li>
+        <li><b>高光切片与数字人二合一</b>：大模型语义挖掘直播黄金切片 + 9:16 电影级高斯虚化画布。</li>
+        <li><b>原声克隆唇形拟合</b>：单张肖像驱动说话嘴型与自然眨眼微表情，一键合成爆款前 3 秒黄金 Hook。</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/xiao44119-sketch/llm-video-skills">🧠 LLM Video Skills Suite</a></h3>
-      <p align="center"><b>大模型影视编导 Agent 与剪映自动化全栈 Skills 套件</b></p>
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/pixel-code-video-workflow">🎞️ Pixel &amp; Code Video Workflow</a>
+        <img src="https://img.shields.io/badge/100%25_DETERMINISTIC-38BDF8?style=flat-square" align="right" />
+      </h3>
+      <p><b>像素风与 AI 纯代码驱动数学动画视频生产引擎</b></p>
+      <p>
+        <code>Canvas 2D / WebGL</code> · <code>HyperFrames</code> · <code>Puppeteer</code> · <code>Clean Feed</code>
+      </p>
       <ul>
-        <li><code>storyboard-video</code> 故事板拓扑依赖分析与双会话导演/执行协作流</li>
-        <li><code>jianying-draft-export</code> + 10拍法提示词体系 + WhisperX 词级时间戳对齐</li>
+        <li><b>告别显卡抽卡漂移</b>：每一帧均为时间变量 $t$ 的确定性数学映射，单片渲染边际成本低至 ¥0.10。</li>
+        <li><b>四大工业级视觉色卡</b>：完整沉淀《暗黑像素财经》《黑金食欲流》《山系机能》《黑曜石哲学》母版工程。</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/llm-video-skills">🧠 LLM Video Skills Suite</a>
+        <img src="https://img.shields.io/badge/AGENT_SKILLS-A855F7?style=flat-square" align="right" />
+      </h3>
+      <p><b>大模型影视编导 Agent 与剪映自动化全栈 Skills 套件</b></p>
+      <p>
+        <code>storyboard-video</code> · <code>10-Beat Prompt SOP</code> · <code>WhisperX</code>
+      </p>
+      <ul>
+        <li><b>导演/执行双会话协作协议</b>：自动解析分镜拓扑依赖、识别跨镜头共享主体并规划 2~3 镜并行批次。</li>
+        <li><b>语言全损压缩重构</b>：内置 10 拍法叙事提示词工程与 WhisperX 毫秒级词粒度时间戳对齐管线。</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/jianying-headless">✂️ JianYing Headless Bus</a>
+        <img src="https://img.shields.io/badge/NATIVE_DYLIB-10B981?style=flat-square" align="right" />
+      </h3>
+      <p><b>面向剪映专业版 macOS 的原生无损草稿注入总线</b></p>
+      <p>
+        <code>C++ libjycodec.dylib</code> · <code>JianYing 11.4+</code> · <code>Multi-Track JSON</code>
+      </p>
+      <ul>
+        <li><b>彻底攻克沙盒丢素材痛点</b>：自包含原生编译动态库，零外部依赖直写剪映本地草稿工程索引。</li>
+        <li><b>Clean Feed 分轨标准</b>：纯净画面母版 + 原声轨 + 香槟金（<code>#FFD76A</code>）独立双色字幕轨一键唤醒。</li>
       </ul>
     </td>
   </tr>
@@ -103,17 +122,42 @@
 
 ---
 
-### 📈 活跃状态与成就 (Activity & Stats)
+### 📊 研发遥测与技术域矩阵 (Engineering Telemetry & Spectrum)
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xiao44119-sketch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06090e" height="150" alt="Finn's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiao44119-sketch&layout=compact&theme=tokyonight&hide_border=true&bg_color=06090e" height="150" alt="Top Languages" />
-
+  <img src="./assets/telemetry-hud.svg" width="100%" alt="Engineering Telemetry and Tech Stack Spectrum" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Designed with ❤️ by Finn (孟乐) · Always building at the edge of AI and Art</sub>
+
+![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript_5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5 Canvas](https://img.shields.io/badge/Canvas_2D_/_WebGL-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg_7.1-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Claude](https://img.shields.io/badge/Agentic_Workflow-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+---
+
+<details>
+<summary><b>📐 点击展开：我的四大工程非谈判契约 (Core Engineering Contracts)</b></summary>
+<br/>
+
+1. **确定性优先于随机抽卡 (Determinism Over Gacha)**：在工业级内容管线中，任何一帧画面、数据图表与镜头运动都应是时间变量 $t$ 的纯函数映射，支持局部参数秒级热重载，而非动辄耗费数十美金盲盒重摇。
+2. **视频母版纯净度规范 (Clean Feed Rule)**：代码渲染层严禁压制硬字幕，画面底端 20%（$Y \ge 1536$）严格留白为黑曜石安全区，字幕全权交由剪映 Pro 独立轨道管理，确保底层粒子与构图零遮挡。
+3. **零依赖便携式交付 (Zero-Dependency Portability)**：无论是 `AutoClip Studio Pro` 还是 `libjycodec.dylib` 剪映草稿引擎，均采用自包含架构，让非技术背景的创作者与团队伙伴在任意电脑上开箱即用。
+4. **科技向善与安全护栏 (Human-Centric AI Guardrails)**：在「安心答」等社会价值项目中，坚持“情绪翻译器而非心理诊断仪”的克制边界，用确定性的状态机守护隐私与伦理底线。
+
+</details>
+
+<br/>
+
+<div align="center">
+  <sub>Designed &amp; Engineered with ❤️ by <b>Finn (骁清 / 孟乐)</b> · Building at the intersection of Deterministic AI, Cinema &amp; Human Empathy</sub>
 </div>
