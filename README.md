@@ -118,6 +118,36 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/starport-3d-portfolio">🛰️ 知识星港 (Starport 3D)</a>
+        <a href="https://xiao44119-sketch.github.io/starport/"><img src="https://img.shields.io/badge/3D_WEBGL_LIVE-00E5D8?style=flat-square" align="right" /></a>
+      </h3>
+      <p><b>基于 Three.js 的 3D 太空站漫游展厅与可视化内容后台</b></p>
+      <p>
+        <code>Three.js</code> · <code>ISS Space Station GLB</code> · <code>NASA Texture</code> · <code>Admin CMS</code>
+      </p>
+      <ul>
+        <li><b>一镜到底 3D 太空舱漫游</b>：真实国际空间站 GLB 模型 + NASA 地球贴图，涵盖彗星轨道作品集与 7 大交互场景。</li>
+        <li><b>所见即所得管理台</b>：内置 <code>admin.html</code> 可视化内容编辑器，支持作品卡片与金句实时热更新。</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/xiao44119-sketch/windiag">🛡️ WinDiag (鞭尸)</a> &amp; <a href="https://github.com/xiao44119-sketch/geo-video-reference-standard">📡 GEO Video</a>
+        <img src="https://img.shields.io/badge/SYSTEM_%26_GEO-F59E0B?style=flat-square" align="right" />
+      </h3>
+      <p><b>Windows 本地深度诊断工具 &amp; 抖音蓝V横屏科技视频标准</b></p>
+      <p>
+        <code>React 18</code> · <code>TypeScript</code> · <code>Recharts Treemap</code> · <code>Playwright</code>
+      </p>
+      <ul>
+        <li><b>WinDiag (鞭尸)</b>：用真实系统遥测与 Treemap 磁盘树替代流氓管家的虚假红点恐吓，全程透明可回滚。</li>
+        <li><b>GEO 蓝V视频标准</b>：1920×1080 深墨绿流金科技风动态信息图 Skill，含第 0 秒视觉爆发与银河光带转场。</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
