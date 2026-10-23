@@ -8,7 +8,7 @@
 
 [![Digital Island](https://img.shields.io/badge/🏝️_Digital_Island-xiao44119--sketch.github.io-00E5D8?style=for-the-badge&labelColor=0A0F1A)](https://xiao44119-sketch.github.io/)
 [![QuantumLink Live](https://img.shields.io/badge/⚡_QuantumLink_Live-Cyber_Terminal-FFD76A?style=for-the-badge&labelColor=0A0F1A)](https://quantum-link-two.vercel.app/)
-[![Anxin-Da Lab](https://img.shields.io/badge/❤️_安心答_Value_Lab-Interactive_Demo-F472B6?style=for-the-badge&labelColor=0A0F1A)](https://xiao44119-sketch.github.io/)
+[![Anxin-Da Repo](https://img.shields.io/badge/❤️_安心答_(乐天知性)-GOAI_参赛项目-F472B6?style=for-the-badge&labelColor=0A0F1A)](https://github.com/xiao44119-sketch/anxin-da)
 [![Email](https://img.shields.io/badge/✉️_Contact-xiao44119%40gmail.com-38BDF8?style=for-the-badge&labelColor=0A0F1A)](mailto:xiao44119@gmail.com)
 
 </div>
@@ -45,16 +45,16 @@
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://xiao44119-sketch.github.io/">❤️ 安心答 (Anxin-Da)</a>
-        <a href="https://xiao44119-sketch.github.io/"><img src="https://img.shields.io/badge/INTERACTIVE_LAB-F472B6?style=flat-square" align="right" /></a>
+        <a href="https://github.com/xiao44119-sketch/anxin-da">❤️ 安心答 (乐天知性 · Anxin-Da)</a>
+        <a href="https://xiao44119-sketch.github.io/anxin-da/"><img src="https://img.shields.io/badge/LIVE_DEMO-F472B6?style=flat-square" align="right" /></a>
       </h3>
-      <p><b>青少年家庭情绪沟通支持系统 · 科技向善价值实验室</b></p>
+      <p><b>分龄性健康教育与亲密关系科普 AI 系统 · GOAI 开源大赛参赛项目</b></p>
       <p>
-        <code>Emotion Lens</code> · <code>Crisis State Machine</code> · <code>Non-Violent Comm</code>
+        <code>Dify RAG</code> · <code>青少/18+ 分龄双版</code> · <code>152 Eval Set</code> · <code>47 Red-Team</code>
       </p>
       <ul>
-        <li><b>双重视角情绪透镜</b>：构建「孩子倾诉端」与「家长共情端」双向翻译缓冲层，化解代际防御。</li>
-        <li><b>三级敏感词加权状态机</b>：实时识别高危情绪信号并平滑切换危机干预通道，严守 0 医疗越界底线。</li>
+        <li><b>适龄分流与社会学升维</b>：未满18岁身体权边界启蒙 / 18+亲密关系科普，含 11 张互动课程卡与 25 条权威 RAG 源。</li>
+        <li><b>四层安全护栏与红队评测</b>：内置 152 条评测集、47 条红队攻击测试、真模型冒烟自检与危机热线转介。</li>
       </ul>
     </td>
   </tr>
